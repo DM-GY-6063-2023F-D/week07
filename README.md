@@ -1,4 +1,7 @@
-# p5.js multi sketch template
+# Week 07
 
-By putting different sketch.js and index.html files in directories we can more easily switch between multiple experiments.
+## Images:
 
+## Camera:
+
+## DIY GIFs
